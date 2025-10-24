@@ -1,5 +1,5 @@
 # 💻 Hi, I'm Sara Arkoub!  
-**Software Engineering Master's Student | Passionate Web & Mobile Developer | AI Enthusiast**
+**Software Engineering Master's Student | Passionate Web & Mobile Developer| AI Enthusiast**
 
 ---
 
