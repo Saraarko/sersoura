@@ -19,10 +19,10 @@ I'm a passionate Software Engineering Master's student specializing in web and m
 
 ### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-Python
-C
-C++
-![JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,8 +73,8 @@ I'm always open to discussing:
 **📧 Email:** sarahriehe@gmail.com  
 **📍 Location:** Boumerdes, Algeria
 
-
 ---
+
 
 > *"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
